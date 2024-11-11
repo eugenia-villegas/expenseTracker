@@ -7,5 +7,5 @@ database so your login and sign up are completely functional and your expenses/i
 only be made by you. I learned the basics of php and I already knew html, css and js.</p>
 
 
-<img href="https://www.figma.com/proto/sV86h57U3AVSOOCIN6Seqb/Untitled?node-id=18-286&node-type=canvas&scaling=min-zoom&content-scaling=fixed&page-id=15%3A47">
+<img src="https://www.figma.com/proto/sV86h57U3AVSOOCIN6Seqb/Untitled?node-id=18-286&node-type=canvas&scaling=min-zoom&content-scaling=fixed&page-id=15%3A47" wid>
 <figcaption>Sign Up page</figcaption>
