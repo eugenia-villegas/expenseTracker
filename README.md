@@ -7,5 +7,5 @@ database so your login and sign up are completely functional and your expenses/i
 only be made by you. I learned the basics of php and I already knew html, css and js.</p>
 
 
-<img src="./img/signup.jpg" width="500" height="500">
+<img src="./img/signup.jpg" width="700" height="500">
 <figcaption>Sign Up page</figcaption>
