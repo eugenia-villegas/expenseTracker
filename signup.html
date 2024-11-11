@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Hybris - Your Tracker</title>
+</head>
+<body class="signUp_body">
+    <form class="signUp" action="signup.php" method="post" autocomplete="off">
+        <section>
+            <h3>Sign Up</h3>
+            <div>
+                <label for="name">Nombre</label>
+                <input type="text" name="name" id="name" maxlength="16" required>
+            </div>
+            <div>
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" maxlength="40" required>
+            </div>
+            <div>
+                <label for="password">Contraseña</label>
+                <input type="password" name="password" id="password" minlength="6" maxlength="16" required>
+            </div>
+            <div>
+                <label for="password_confirmation">Repetir Contraseña</label>
+                 <input type="password" name="password_confirmation" id="password_confirmation" required>
+            </div>
+            <div>
+                <button>Enviar</button>
+            </div> 
+            <div>
+                <a href="login.php">Ya tengo una cuenta!</a>
+            </div>  
+        </section> 
+        <section>
+            <img class="logo_login" src="/img/logo.png">
+            <h3>Biendenido a Hydris</h3>
+            <h4>El lugar para tus finanzas</h4>
+        </section>
+    </form>
+
+
+</body>
+</html>
