@@ -9,3 +9,12 @@ only be made by you. I learned the basics of php and I already knew html, css an
 
 <img src="./img/signup.jpg" width="820" height="500">
 <figcaption>Sign Up page</figcaption>
+
+<img src="./img/login.jpg" width="820" height="500">
+<figcaption>Login page</figcaption>
+
+<img src="./img/index.jpg" width="820" height="500">
+<figcaption>Index page</figcaption>
+
+<img src="./img/registers.jpg" width="820" height="500">
+<figcaption>Registers page</figcaption>
